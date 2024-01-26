@@ -4,6 +4,20 @@
 
 [1]: https://pypi.org/project/google-cloud-ndb/#history
 
+## [2.3.0](https://github.com/googleapis/python-ndb/compare/v2.2.2...v2.3.0) (2024-01-26)
+
+
+### Features
+
+* Add support for google.cloud.ndb.__version__ ([#929](https://github.com/googleapis/python-ndb/issues/929)) ([42b3f01](https://github.com/googleapis/python-ndb/commit/42b3f0137caed25ac3242435b571155d2d84c78e))
+* Introduce compatibility with native namespace packages ([#933](https://github.com/googleapis/python-ndb/issues/933)) ([ccae387](https://github.com/googleapis/python-ndb/commit/ccae387720a28db2686e69dfe23a2599fc4908f0))
+
+
+### Documentation
+
+* **__init__:** Note that Firestore in Datastore Mode is supported ([#919](https://github.com/googleapis/python-ndb/issues/919)) ([0fa75e7](https://github.com/googleapis/python-ndb/commit/0fa75e71dfc6d56d2c0eaf214a48774b99bb959f))
+* Show how to use named databases ([#932](https://github.com/googleapis/python-ndb/issues/932)) ([182fe4e](https://github.com/googleapis/python-ndb/commit/182fe4e2d295768aaf016f94cb43b6b1e5572ebd))
+
 ## [2.2.2](https://github.com/googleapis/python-ndb/compare/v2.2.1...v2.2.2) (2023-09-19)
 
 
